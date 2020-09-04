@@ -5,8 +5,11 @@ Cars are well-known as having a high depreciation rate. Therefore, purchasing us
 - generate a predictive model using linear regression to predict the prices of used cars with most popular brands.
 
 ## Code and Resources Used
+
 **Python Version**: 3.7
+
 **Packages**: pandas, numpy 
+
 **Data Source**: https://www.kaggle.com/orgesleka/used-cars-database/data
 
 ## Data Cleaning
