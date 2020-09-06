@@ -1,4 +1,4 @@
-# eBay-Kleinanzeigen-Used-Car-Data-Analysis
+# eBay-Used-Car-Data-Analysis
 Cars are well-known as having a high depreciation rate. Therefore, purchasing used car can usually be economically more favorable for many people. eBay Kleinanzeigen is a classfied advertising section of the German eBay website. Here I will work with a dataset which was orinigally scraped from eBay Kleinanzeigen, for the used car sell information. My goals are to:
 
 - identify which brand should a customer consider first, based on the popularity and the price.
