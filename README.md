@@ -18,4 +18,4 @@ The following data cleaning steps were applied:
 - Removed odometer reading for final model building as it contains significant number of same values
 
 # Model Building
-I built a model using Random Forest Regressor and performed hyper-parameter tuning. The final accuracy is **87.5%**.
+I built a model using Random Forest Regressor and performed hyper-parameter tuning. The final accuracy on the test set is **87.5%**.
